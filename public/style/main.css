@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1920px;
+  width: 100%;
+}
+
+.btn-outline-success {
+  font-weight: 700;
+}
+.btn-outline-success:hover {
+  background-color: rgb(251, 35, 35);
+}/*# sourceMappingURL=main.css.map */
